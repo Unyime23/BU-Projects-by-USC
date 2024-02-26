@@ -1,4 +1,4 @@
-const endDate = new Date("2024-02-29T23:59:59");
+const endDate = new Date("2024-03-04T23:59:59");
 const timer = document.querySelector(".expired-message");
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
